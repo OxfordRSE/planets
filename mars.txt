@@ -2,4 +2,5 @@ Is Mars suitable as a space base?
 
 One problem to deal with is that the atmosphere is very thin.
 Another is that it's mostly carbon dioxide.
+And quite cold.
 
