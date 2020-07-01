@@ -1,2 +1,4 @@
 Is Mars suitable as a space base?
 
+One problem to deal with is that the atmosphere is very thin.
+
